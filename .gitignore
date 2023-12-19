@@ -6,3 +6,4 @@ __*
 !.gitignore
 data/*
 tiles/*
+response_tiles/*
